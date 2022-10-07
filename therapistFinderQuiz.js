@@ -1,5 +1,7 @@
   jQuery(document).ready(function () {
 
+    alert('hello');
+    
       jQuery('#quiz-slider').slick({
           infinite: false,
           arrows: true,
