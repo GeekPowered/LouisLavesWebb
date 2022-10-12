@@ -194,7 +194,7 @@ $(document).ready(function () {
                             <h4 class="therapist-name">${thisTherapist['info']['name']}</h4>
                             <p class="therapist-title">${thisTherapist['info']['title']}</p>
                             <div class="gps-button-wrapper">
-                                <a class="gps-button button-2" href="${thisTherapist['info']['link']}" target="_blank">More About ${thisTherapist['info']['name'].split(' ')[0]}</a>
+                                <a class="llw-bttn w-button" href="${thisTherapist['info']['link']}" target="_blank">More About ${thisTherapist['info']['name'].split(' ')[0]}</a>
                             </div>
                         </div>
                     </div>
