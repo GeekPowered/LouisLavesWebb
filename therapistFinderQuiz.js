@@ -186,19 +186,19 @@ $(document).ready(function () {
                 // Append this markup to the results element for each found therapist to the results array
                 var thisTherapist = therapists[therapist];
                 $('.therapist-results').append(`
-                         <div class="therapist-col">
-                             <div class="therapist-card">
-                                 <div class="therapist-img-wrapper">
-                                     <img src="${thisTherapist['info']['image']}">
-                                 </div>
-                                 <h4 class="therapist-name">${thisTherapist['info']['name']}</h4>
-                                 <p class="therapist-title">${thisTherapist['info']['title']}</p>
-                                 <div class="gps-button-wrapper">
-                                     <a class="gps-button button-2" href="${thisTherapist['info']['link']}" target="_blank">More About ${thisTherapist['info']['name'].split(' ')[0]}</a>
-                                 </div>
-                             </div>
-                         </div>
-                     `);
+                    <div class="therapist-col">
+                        <div class="therapist-card">
+                            <div class="therapist-img-wrapper">
+                                <img src="${thisTherapist['info']['image']}">
+                            </div>
+                            <h4 class="therapist-name">${thisTherapist['info']['name']}</h4>
+                            <p class="therapist-title">${thisTherapist['info']['title']}</p>
+                            <div class="gps-button-wrapper">
+                                <a class="gps-button button-2" href="${thisTherapist['info']['link']}" target="_blank">More About ${thisTherapist['info']['name'].split(' ')[0]}</a>
+                            </div>
+                        </div>
+                    </div>
+                `);
             });
 
             // Show results element
