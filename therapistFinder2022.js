@@ -33,7 +33,7 @@ $(document).ready(function () {
                 name: 'Kalee Gower',
                 title: 'LCSW - Clinical Director',
                 link: '/kalee-gower/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633daa223950ba0e10261fe7_kalee.jpg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefd2b75b334ecedb10e_Kalee%201.webp'
             }
         },
         robbiePrice: {
@@ -46,7 +46,7 @@ $(document).ready(function () {
                 name: 'Robbie Price',
                 title: 'LPC - Senior Associate',
                 link: '/robbie-price/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633daa225714e76ec70b9a67_RobbiePrice_LLW_web-1024x683-p-500.jpeg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefddb42af12f2981e1d_Robbie%201.webp'
             }
         },
         louisLaves: {
@@ -59,7 +59,7 @@ $(document).ready(function () {
                 name: 'Louis Laves-Webb',
                 title: 'LCSW - LPC-S - Psychotherapist',
                 link: '/louis-laves-webb/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633d983ea0a6e417a61c760d_llw-headshot-washed-688x1024-p-500.jpeg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefdddd0504899950aa0_Louis%201.webp'
             }
         },
         sarahFreilicher: {
@@ -72,7 +72,7 @@ $(document).ready(function () {
                 name: 'Sarah Freilicher',
                 title: 'LMSW',
                 link: '/sarah-freilicher/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633daa222ad21561273ae5ca_Sarah-site-photo.jpg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefddb42af36d6981e1c_Sarah%201.webp'
             }
         },
         anielaBaczewski: {
@@ -85,7 +85,7 @@ $(document).ready(function () {
                 name: 'Aniela Baczewski',
                 title: 'LPC – Associate',
                 link: '/aniela-baczewski/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633cab3c4a727c29fb0ec3b5_AnielaB-LLW-683x1024-p-500.jpeg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefd1ecef783e8a948ca_Aniela%201.webp'
             }
         },
         susanMiller: {
@@ -111,7 +111,7 @@ $(document).ready(function () {
                 name: 'Emily Dobrowski',
                 title: 'LMSW',
                 link: '/emily-dobrowski/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633d84650fc685795d0c1082_emily-dobrowski.jpeg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefdec00eddb39c5d242_Emily%20D%201.webp'
             }
         },
         emilyCheney: {
@@ -124,7 +124,7 @@ $(document).ready(function () {
                 name: 'Emily Harrington-Cheney',
                 title: 'LCSW, LPC - Senior Associate',
                 link: '/emily-harrington-cheney/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633daa2205ac7572a902cd6f_Emily-LLW-844x1024.jpeg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefd850dc179dd42dd93_Emily%20HC.webp'
             }
         },
         kimMasoni: {
@@ -137,7 +137,7 @@ $(document).ready(function () {
                 name: 'Kim Masoni',
                 title: 'LPC-Associate',
                 link: '/kim-masoni/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633daa22e4e0c4490a6e98f8_kim-masoni-p-500.jpeg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefdf7bda80882c79881_Kim%201.webp'
             }
         },
         carolynMiles: {
@@ -150,7 +150,7 @@ $(document).ready(function () {
                 name: 'Carolyn Miles',
                 title: 'LMSW',
                 link: '/carolyn-miles/',
-                image: 'https://assets.website-files.com/6331c98293c88392fa71043c/633daa22dd112e80c55c0b77_carolyn-miles-p-500.jpeg'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefde44c82d78604f70f_Carolyn%201.webp'
             }
         }
     }
