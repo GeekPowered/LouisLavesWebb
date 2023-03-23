@@ -124,7 +124,7 @@ $(document).ready(function () {
                 name: 'Emily Harrington-Cheney',
                 title: 'LCSW, LPC - Senior Associate',
                 link: '/emily-harrington-cheney/',
-                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefd850dc179dd42dd93_Emily%20HC.webp'
+                image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/641c50e0038d63895a3d06b8_Emily%20HC.webp'
             }
         },
         kimMasoni: {
