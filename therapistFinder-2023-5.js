@@ -144,7 +144,7 @@ $(document).ready(function () {
             q1: ['individual', 'couples'],
             q2: ['anxietyDepression', 'adhd', 'relationship', 'lifeTransitions', 'studentConcerns', 'mensIssues', 'other', 'spirituality', 'mensIssues'],
             q3: ['inPerson', 'telehealth', 'noPref'],
-            q4: ['male', 'female', 'noPref', 'nonBinary'],
+            q4: ['male', 'noPref'],
             q5: ['youngAdult', 'adult', 'senior'],
             info: {
                 name: 'Nick Mamey',
