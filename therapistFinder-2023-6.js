@@ -122,7 +122,7 @@ $(document).ready(function () {
             q5: ['adolescent', 'youngAdult', 'adult', 'senior'],
             info: {
                 name: 'Kim Masoni',
-                title: 'LPC-Associate',
+                title: 'LPC-Senior Associate',
                 link: '/kim-masoni/',
                 image: 'https://uploads-ssl.webflow.com/6331c98293c88392fa71043c/635bfefdf7bda80882c79881_Kim%201.webp'
             }
